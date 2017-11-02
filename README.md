@@ -1,5 +1,9 @@
-database file is test.sql
-host name localhost
-username root
-password root
+Database file is test.sql
+
+Host name localhost
+
+Username root
+
+Password root
+
 DB name test
