@@ -1,0 +1,51 @@
+.heading {
+	text-align: center;
+	padding: 20px 20px;	
+	
+}
+
+.outer-div {
+	background-color: #f7f5f4;
+	position: relative;
+	width: 100vw;
+	height: 91vh;
+}
+
+
+.inner1-div {
+	  background-color: #4286f4;
+	  position: absolute;
+	  margin-top:50px;
+	  margin-left: 25%;
+	  margin-right: 25%;
+	  width: 50%;
+	  padding: 10px 25px; 
+	  color:white;
+	  text-align: center;
+	  font-weight: bold;
+}
+
+.inner2-div {
+	  background-color: #ffffff;
+	  position: absolute;
+	  margin-top:125px;
+	  margin-left: 25%;
+	  margin-right: 25%;
+	  width: 50%;
+	  padding: 10px 25px; 
+}
+
+.label {
+	width: 15%;
+	font-weight: 600;
+}
+
+.colon {
+	padding: 10px 25px;
+	font-weight: 500;
+}
+
+.data {
+	font-weight: 500;
+	color: #a3a8af;
+}
