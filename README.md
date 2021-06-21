@@ -13,3 +13,4 @@ This project uses HTML, CSS, JavaScript and PHP Laravel framework and MySql data
 2. Pagination is created using JavaScript
 3. Database store accent data (e.g. Québec)4.
 4. ORM is used
+5. Plain JavaScript XMLHttpRequest object is used for Ajax call 
